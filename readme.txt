@@ -1,0 +1,1 @@
+// A sample applicaton using vanila js and ionic.
